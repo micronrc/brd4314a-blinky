@@ -1,0 +1,3 @@
+[submodule "efr32_tools"]
+	path = efr32_tools
+	url = git@github.com:micronrc/efr32_tools.git
